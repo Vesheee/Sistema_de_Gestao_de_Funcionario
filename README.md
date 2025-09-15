@@ -3,6 +3,7 @@ Este projeto foi desenvolvido como um exercício prático para aplicar e aprofun
 O código implementa uma hierarquia de classes usando herança, polimorfismo e interfaces para modelar o comportamento de cargos como Motoboy, Gerente e Diretor. As funcionalidades incluem o cálculo de salários baseados em bonificações e prêmios, além da gestão de contratação e demissão.
 
 *Diagrama de Classes UML*
+
 A estrutura do projeto foi baseada no seguinte diagrama de classes:
 
 <img width="1072" height="597" alt="Image" src="https://github.com/user-attachments/assets/7653bbba-659d-45d4-a8db-4ad800429d05" />
